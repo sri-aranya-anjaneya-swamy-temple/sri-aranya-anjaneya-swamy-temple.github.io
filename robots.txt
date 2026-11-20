@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pavan-village.github.io/village-name/sitemap.xml
+Sitemap: https://sri-aranya-anjaneya-swamy-temple.github.io/sitemap.xml
